@@ -4,4 +4,4 @@ This is my first project i have done in my life. Also my programming life starte
 
 1. Animations
 2. Skills
-3. Used only html, css, javascript
+3. Responsive
